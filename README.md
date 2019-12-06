@@ -6,4 +6,4 @@ Test accuracy: 0.8851
 
 
 
-Used cut out and Resnetv1 within 50 epochs.
+Used cutout and Resnetv1 within 50 epochs.
